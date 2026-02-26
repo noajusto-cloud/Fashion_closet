@@ -113,16 +113,7 @@ python main.py
 
 ------------------------------------------------------------------------
 
-## 🔮 Future Improvements
-
--   Web-based interface
--   User authentication system
--   Recommendation engine improvements
--   REST API layer
--   Dependency Injection implementation
-
-------------------------------------------------------------------------
-
 ## 👩‍💻 Author
 
-Developed as an academic software engineering project.
+Noa Justo
+Gali Azar
